@@ -1,32 +1,38 @@
 {
   "name": "pooptastic",
   "version": "1.0.0",
-  "description": "The most pooptastic utility library on npm — because life’s too short not to have fun with poop 💩",
+  "description": "The most unnecessarily majestic JavaScript library for analyzing, rating, and spiritually connecting with poop. 💩",
   "main": "index.js",
   "scripts": {
-    "test": "node example.js"
+    "test": "echo \"💩 Tests are for serious packages. We don't do that here.\" && exit 0",
+    "start": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabforms/pooptastic.git"
   },
   "keywords": [
     "poop",
-    "fun",
+    "💩",
     "funny",
-    "ridiculous",
-    "emoji",
+    "useless",
+    "silly",
+    "comedy",
+    "gag",
+    "npm",
+    "novelty",
+    "flush",
     "toilet",
-    "humor",
-    "jokes",
-    "utility",
+    "emoji",
+    "bathroom",
+    "absurd",
     "pooptastic"
   ],
-  "author": "Your Name",
+  "author": "The FabForm Toileteers 🚽",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yourusername/pooptastic.git"
-  },
   "bugs": {
-    "url": "https://github.com/yourusername/pooptastic/issues"
+    "url": "https://github.com/fabforms/pooptastic/issues"
   },
-  "homepage": "https://github.com/yourusername/pooptastic#readme"
+  "homepage": "https://github.com/fabforms/pooptastic#readme"
 }
 
