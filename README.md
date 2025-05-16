@@ -160,8 +160,6 @@ Licensed under the **BMIT** (Bathroom MIT) License.
 
 ---
 
-Would you like me to push this README to your GitHub repo right now?
-Or shall we also generate custom badges like:
 
 * `💩 Poop Rating: 10/10`
 * `🪠 Flush Tested`

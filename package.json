@@ -1,6 +1,6 @@
 {
   "name": "pooptastic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The most unnecessarily majestic JavaScript library for analyzing, rating, and spiritually connecting with poop. 💩",
   "main": "index.js",
   "scripts": {
