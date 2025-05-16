@@ -1,0 +1,32 @@
+{
+  "name": "pooptastic",
+  "version": "1.0.0",
+  "description": "The most pooptastic utility library on npm — because life’s too short not to have fun with poop 💩",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": [
+    "poop",
+    "fun",
+    "funny",
+    "ridiculous",
+    "emoji",
+    "toilet",
+    "humor",
+    "jokes",
+    "utility",
+    "pooptastic"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/pooptastic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/pooptastic/issues"
+  },
+  "homepage": "https://github.com/yourusername/pooptastic#readme"
+}
+
